@@ -1,13 +1,13 @@
 import React from 'react'
 import {BiTimeFive} from 'react-icons/bi'
-import logo1 from '../../Assests/logo1.jpg'
-import logo2 from '../../Assests/logo2.jpg'
-import logo3 from '../../Assests/logo3.png'
-import logo4 from '../../Assests/logo4.jpg'
-import logo5 from '../../Assests/logo5.jpg'
-import logo6 from '../../Assests/logo6.jpg'
-import logo7 from '../../Assests/logo7.png'
-import logo8 from '../../Assests/logo8.png'
+import logo1 from '../../../public/assets/logo1.jpg'
+import logo2 from '../../../public/assets/logo2.jpg'
+import logo3 from '../../../public/assets/logo3.png'
+import logo4 from '../../../public/assets/logo4.jpg'
+import logo5 from '../../../public/assets/logo5.jpg'
+import logo6 from '../../../public/assets/logo6.jpg'
+import logo7 from '../../../public/assets/logo7.png'
+import logo8 from '../../../public/assets/logo8.png'
 
 const Data=[
   {
