@@ -1,7 +1,7 @@
 import React from 'react'
-import simple from '../../Assests/simple.png'
-import valentine from '../../Assests/valentine.jpg'
-import wellwish from '../../Assests/wellwish.png'
+import simple from '../../../public/assets/simple.png'
+import valentine from '../../../public/assets/valentine.jpg'
+import wellwish from '../../../public/assets/wellwish.png'
 
 const Value = () => {
   return (
